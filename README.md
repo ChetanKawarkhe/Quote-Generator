@@ -1,5 +1,5 @@
 # Quote-Generator
-## hosted link
+### hosted link
 ```link
   quote-generator-by-csk.netlify.app
 ```
