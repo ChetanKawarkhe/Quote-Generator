@@ -3,3 +3,5 @@
 ```link
   quote-generator-by-csk.netlify.app
 ```
+# Output Preview
+![](output.jpg)
