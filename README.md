@@ -1,7 +1,8 @@
 # Quote-Generator
-### hosted link
-```link
-  quote-generator-by-csk.netlify.app
-```
+### `website is deplyoed to below link`
+  [click here](https://quote-generator-by-csk.netlify.app/) \
+  or the link below \
+  https://quote-generator-by-csk.netlify.app/
+  
 # Output Preview
 ![](output.jpg)
